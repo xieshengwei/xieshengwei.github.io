@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>谢圣伟的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-02-01T15:27:59.933Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>谢圣伟</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first post</title>
+    <link href="http://yoursite.com/2018/01/26/my-first-post/"/>
+    <id>http://yoursite.com/2018/01/26/my-first-post/</id>
+    <published>2018-01-26T14:45:47.000Z</published>
+    <updated>2018-02-01T15:27:59.933Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>                    这是我的第一篇博客。最近在听一首李晓东改编毛不易的歌曲:消愁，很是喜欢，贴上歌词。                          消愁                                 李晓东                     当你走进这欢乐场                     背上所有的梦与想                      各色的脸上各色的妆                      没人记得你的模样                      三巡酒过你在角落                     固执的唱着苦涩的歌                     听他在喧嚣里被淹没                     你拿起酒杯对自己说                     一杯敬朝阳 一杯敬月光                     唤醒我的向往 温柔了寒窗                     于是可以不回头地逆风飞翔                     不怕心头有雨 眼底有霜                     一杯敬故乡 一杯敬远方                     守着我的善良 催着我成长                     所以南北的路从此不再漫长                     灵魂不再无处安放                     一杯敬明天 一杯敬过往                     支撑我的身体 厚重了肩膀                     虽然从不相信所谓山高水长                     人生苦短何必念念不忘                     一杯敬自由 一杯敬死亡                     宽恕我的平凡 驱散了迷惘                     好吧天亮之后总是潦草离场                     清醒的人最荒唐                     好吧天亮之后总是潦草离场                     清醒的人最荒唐</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;                    这是我的第一篇博客。
+最近在听一首李晓东改编毛不易的歌曲:消愁，很是喜欢，贴上歌词。
+
+                          消愁        
+
+                         李晓
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="自我介绍" scheme="http://yoursite.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/01/26/hello-world/"/>
+    <id>http://yoursite.com/2018/01/26/hello-world/</id>
+    <published>2018-01-26T05:26:09.323Z</published>
+    <updated>2018-01-26T05:26:09.323Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
