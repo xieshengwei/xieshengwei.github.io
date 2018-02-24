@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一篇博客]]></title>
+    <url>%2F2018%2F01%2F26%2Fmy-first-post%2F</url>
+    <content type="text"><![CDATA[这是我的第一篇博客。 最近在听一首李晓东改编毛不易的歌曲:消愁，很是喜欢，贴上歌词。 消愁 李晓东 当你走进这欢乐场 背上所有的梦与想 各色的脸上各色的妆 没人记得你的模样 三巡酒过你在角落 固执的唱着苦涩的歌 听他在喧嚣里被淹没 你拿起酒杯对自己说 一杯敬朝阳 一杯敬月光 唤醒我的向往 温柔了寒窗 于是可以不回头地逆风飞翔 不怕心头有雨 眼底有霜 一杯敬故乡 一杯敬远方 守着我的善良 催着我成长 所以南北的路从此不再漫长 灵魂不再无处安放 一杯敬明天 一杯敬过往 支撑我的身体 厚重了肩膀 虽然从不相信所谓山高水长 人生苦短何必念念不忘 一杯敬自由 一杯敬死亡 宽恕我的平凡 驱散了迷惘 好吧天亮之后总是潦草离场 清醒的人最荒唐 好吧天亮之后总是潦草离场 清醒的人最荒唐]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>自我介绍</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F01%2F26%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
