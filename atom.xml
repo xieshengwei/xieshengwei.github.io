@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-29T06:39:11.795Z</updated>
+  <updated>2018-03-29T08:45:13.050Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2018/03/28/%E8%B0%88%E4%B8%80%E8%B0%88%E6%8E%A5%E4%B8%8B%E6%9D%A5%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E8%BE%93%E5%87%BA%E6%96%B9%E5%90%91/"/>
     <id>http://yoursite.com/2018/03/28/谈一谈接下来博客内容输出方向/</id>
     <published>2018-03-28T11:43:51.000Z</published>
-    <updated>2018-03-29T06:39:11.795Z</updated>
+    <updated>2018-03-29T08:45:13.050Z</updated>
     
-    <content type="html"><![CDATA[<p>ennen<br>&lt;!– 前言<br>*博客搭建过程</p><blockquote><p>2017年3月底开始学习Java语言，系统学习4个月，7月底入职做后端开发，如今已有8个月时间，算是入门了，<br> 做开发的期间才认识到之前学习的很片面，<br><em>搭建目的</em>内容输出 –&gt;</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="博客搭建过程"><a href="#博客搭建过程" class="headerlink" title="博客搭建过程"></a><strong>博客搭建过程</strong></h2><blockquote><h4 id="入行"><a href="#入行" class="headerlink" title="入行"></a>入行</h4><p>2017年3月底开始学习Java语言，系统学习4个月，7月底入职做后端开发，如今已有8个月时间，算是入门了;<br>通过这段时间的开发经历才算明白什么叫前端、后端、服务器、接口，对自己以前的认识真是一言以蔽之:井底之蛙;<br>编程的世界很精彩，需要学习积累的太多太多,永远不要以为自己很懂,你还差很远。</p><h4 id="购买服务器、域名、备案"><a href="#购买服务器、域名、备案" class="headerlink" title="购买服务器、域名、备案"></a>购买服务器、域名、备案</h4><p>2017年1月，购买阿里云服务器，1核CPU、1G内存、1M带宽，335元/年，阿里云的最低配置，用来部署单机静态页面<br>应该是够了；随后注册了个人域名：xieshengwei.com，55元/年，庆幸的是没人注册过，还附赠了xieshengwei.xyz域名；<br>注册域名的时候也进行了备案，不备案的话只能使用非80端口，想直接访问域名进入主页还是备案一下。</p><h4 id="选择博客框架"><a href="#选择博客框架" class="headerlink" title="选择博客框架"></a>选择博客框架</h4><p>之前也没有搭建博客框架经验，百度了一下，发现hexo博客框架比较流行，简约而不简单，可扩展性不错，<br>正好也可以学习一下前端相关知识，比如node.js、npm、yarn、webpack等，于是就这么定了，并在年前完成了备案，<br>把框架搭建完成，成功部署到服务器，域名也绑定了阿里云服务器，可正常访问域名。</p></blockquote><h2 id="搭建目的"><a href="#搭建目的" class="headerlink" title="搭建目的"></a><strong>搭建目的</strong></h2><p>入职后端开发后，平时主要还是写代码，对项目整体架构方面了解的还不够，用到的技术也不够熟悉，只能用业余时间对技术<br>做一些梳理，写一些demo,加深对某一技术的理解，开通此博客的目的也正是如此，可以相对系统的学习项目中用到的一些<br>技术，同时这个博客也可以督促我持续的保持学习、进步，自己不往前跑，就被别人超越了。</p><h2 id="内容输出"><a href="#内容输出" class="headerlink" title="内容输出"></a><strong>内容输出</strong></h2><p>目前的打算：以后博客内容输出还是围绕着项目中用到的技术展开，小到一个技术点的使用，大到架构方面的设计(可能n年以后)<br>加油，少年，别人可以做到的，你也可以做到，just do it。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;ennen&lt;br&gt;&amp;lt;!– 前言&lt;br&gt;*博客搭建过程&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;2017年3月底开始学习Java语言，系统学习4个月，7月底入职做后端开发，如今已有8个月时间，算是入门了，&lt;br&gt; 做开发的期间才认识到之前学习的很片面，&lt;br&gt;&lt;em&gt;搭
+        &lt;h2 id=&quot;博客搭建过程&quot;&gt;&lt;a href=&quot;#博客搭建过程&quot; class=&quot;headerlink&quot; title=&quot;博客搭建过程&quot;&gt;&lt;/a&gt;&lt;strong&gt;博客搭建过程&lt;/strong&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h4 id=&quot;入行&quot;&gt;&lt;a href=&quot;#入行&quot; c
       
     
     </summary>
@@ -44,15 +43,15 @@
     <link href="http://yoursite.com/2018/01/26/my-first-post/"/>
     <id>http://yoursite.com/2018/01/26/my-first-post/</id>
     <published>2018-01-26T14:45:47.000Z</published>
-    <updated>2018-03-29T06:41:19.141Z</updated>
+    <updated>2018-03-29T06:43:04.860Z</updated>
     
-    <content type="html"><![CDATA[<div align="center" style="font-size:18px"><br><h3>最近在听一首李晓东改编毛不易的歌曲 </h3><br><br>李晓东<br><br>                                                       当你走进这欢乐场<br><br>                                                  背上所有的梦与想<br><br>                                                 各色的脸上各色的妆<br><br>                                                  没人记得你的模样<br><br>                                                  三巡酒过你在角落<br><br>                                                  固执的唱着苦涩的歌<br><br>                                                  听他在喧嚣里被淹没<br><br>                                                  你拿起酒杯对自己说<br><br>                                                  一杯敬朝阳 一杯敬月光<br><br>                                                  唤醒我的向往 温柔了寒窗<br><br>                                              于是可以不回头地逆风飞翔<br><br>                                                  不怕心头有雨 眼底有霜<br><br>                                                  一杯敬故乡 一杯敬远方<br><br>                                                  守着我的善良 催着我成长<br><br>                                                  所以南北的路从此不再漫长<br><br>                                                  灵魂不再无处安放<br><br>                                                  一杯敬明天 一杯敬过往<br><br>                                                  支撑我的身体 厚重了肩膀<br><br>                                              虽然从不相信所谓山高水长<br><br>                                                  人生苦短何必念念不忘<br><br>                                                  一杯敬自由 一杯敬死亡<br><br>                                              宽恕我的平凡 驱散了迷惘<br><br>                                                  好吧天亮之后总是潦草离场<br><br>                                                  清醒的人最荒唐<br><br>                                                  好吧天亮之后总是潦草离<br><br>                                                  清醒的人最荒唐</div>]]></content>
+    <content type="html"><![CDATA[<div align="center" style="font-size:18px"><br><h3>最近在听一首李晓东改编毛不易的歌曲 </h3><br>消愁<br>李晓东<br><br>                                                       当你走进这欢乐场<br><br>                                                  背上所有的梦与想<br><br>                                                 各色的脸上各色的妆<br><br>                                                  没人记得你的模样<br><br>                                                  三巡酒过你在角落<br><br>                                                  固执的唱着苦涩的歌<br><br>                                                  听他在喧嚣里被淹没<br><br>                                                  你拿起酒杯对自己说<br><br>                                                  一杯敬朝阳 一杯敬月光<br><br>                                                  唤醒我的向往 温柔了寒窗<br><br>                                              于是可以不回头地逆风飞翔<br><br>                                                  不怕心头有雨 眼底有霜<br><br>                                                  一杯敬故乡 一杯敬远方<br><br>                                                  守着我的善良 催着我成长<br><br>                                                  所以南北的路从此不再漫长<br><br>                                                  灵魂不再无处安放<br><br>                                                  一杯敬明天 一杯敬过往<br><br>                                                  支撑我的身体 厚重了肩膀<br><br>                                              虽然从不相信所谓山高水长<br><br>                                                  人生苦短何必念念不忘<br><br>                                                  一杯敬自由 一杯敬死亡<br><br>                                              宽恕我的平凡 驱散了迷惘<br><br>                                                  好吧天亮之后总是潦草离场<br><br>                                                  清醒的人最荒唐<br><br>                                                  好吧天亮之后总是潦草离<br><br>                                                  清醒的人最荒唐</div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot; style=&quot;font-size:18px&quot;&gt;&lt;br&gt;&lt;h3&gt;最近在听一首李晓东改编毛不易的歌曲 &lt;/h3&gt;&lt;br&gt;&lt;br&gt;李晓东&lt;br&gt;&lt;br&gt;                                               
+        &lt;div align=&quot;center&quot; style=&quot;font-size:18px&quot;&gt;&lt;br&gt;&lt;h3&gt;最近在听一首李晓东改编毛不易的歌曲 &lt;/h3&gt;&lt;br&gt;消愁&lt;br&gt;李晓东&lt;br&gt;&lt;br&gt;                                             
       
     
     </summary>
