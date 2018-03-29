@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-10T08:42:22.551Z</updated>
+  <updated>2018-03-29T06:39:11.795Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇博客</title>
-    <link href="http://yoursite.com/2018/01/26/my-first-post/"/>
-    <id>http://yoursite.com/2018/01/26/my-first-post/</id>
-    <published>2018-01-26T14:45:47.000Z</published>
-    <updated>2018-02-10T08:42:22.551Z</updated>
+    <title>谈一谈接下来博客内容输出方向</title>
+    <link href="http://yoursite.com/2018/03/28/%E8%B0%88%E4%B8%80%E8%B0%88%E6%8E%A5%E4%B8%8B%E6%9D%A5%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E8%BE%93%E5%87%BA%E6%96%B9%E5%90%91/"/>
+    <id>http://yoursite.com/2018/03/28/谈一谈接下来博客内容输出方向/</id>
+    <published>2018-03-28T11:43:51.000Z</published>
+    <updated>2018-03-29T06:39:11.795Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>                    这是我的第一篇博客。最近在听一首李晓东改编毛不易的歌曲:消愁，很是喜欢，贴上歌词。                          消愁                                 李晓东                     当你走进这欢乐场                     背上所有的梦与想                      各色的脸上各色的妆                      没人记得你的模样                      三巡酒过你在角落                     固执的唱着苦涩的歌                     听他在喧嚣里被淹没                     你拿起酒杯对自己说                     一杯敬朝阳 一杯敬月光                     唤醒我的向往 温柔了寒窗                     于是可以不回头地逆风飞翔                     不怕心头有雨 眼底有霜                     一杯敬故乡 一杯敬远方                     守着我的善良 催着我成长                     所以南北的路从此不再漫长                     灵魂不再无处安放                     一杯敬明天 一杯敬过往                     支撑我的身体 厚重了肩膀                     虽然从不相信所谓山高水长                     人生苦短何必念念不忘                     一杯敬自由 一杯敬死亡                     宽恕我的平凡 驱散了迷惘                     好吧天亮之后总是潦草离场                     清醒的人最荒唐                     好吧天亮之后总是潦草离场                     清醒的人最荒唐</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>ennen<br>&lt;!– 前言<br>*博客搭建过程</p><blockquote><p>2017年3月底开始学习Java语言，系统学习4个月，7月底入职做后端开发，如今已有8个月时间，算是入门了，<br> 做开发的期间才认识到之前学习的很片面，<br><em>搭建目的</em>内容输出 –&gt;</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;pre&gt;&lt;code&gt;                    这是我的第一篇博客。
-最近在听一首李晓东改编毛不易的歌曲:消愁，很是喜欢，贴上歌词。
-
-                          消愁        
-
-                         李晓
+        &lt;p&gt;ennen&lt;br&gt;&amp;lt;!– 前言&lt;br&gt;*博客搭建过程&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2017年3月底开始学习Java语言，系统学习4个月，7月底入职做后端开发，如今已有8个月时间，算是入门了，&lt;br&gt; 做开发的期间才认识到之前学习的很片面，&lt;br&gt;&lt;em&gt;搭
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com/2018/01/26/my-first-post/"/>
+    <id>http://yoursite.com/2018/01/26/my-first-post/</id>
+    <published>2018-01-26T14:45:47.000Z</published>
+    <updated>2018-03-29T06:41:19.141Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center" style="font-size:18px"><br><h3>最近在听一首李晓东改编毛不易的歌曲 </h3><br><br>李晓东<br><br>                                                       当你走进这欢乐场<br><br>                                                  背上所有的梦与想<br><br>                                                 各色的脸上各色的妆<br><br>                                                  没人记得你的模样<br><br>                                                  三巡酒过你在角落<br><br>                                                  固执的唱着苦涩的歌<br><br>                                                  听他在喧嚣里被淹没<br><br>                                                  你拿起酒杯对自己说<br><br>                                                  一杯敬朝阳 一杯敬月光<br><br>                                                  唤醒我的向往 温柔了寒窗<br><br>                                              于是可以不回头地逆风飞翔<br><br>                                                  不怕心头有雨 眼底有霜<br><br>                                                  一杯敬故乡 一杯敬远方<br><br>                                                  守着我的善良 催着我成长<br><br>                                                  所以南北的路从此不再漫长<br><br>                                                  灵魂不再无处安放<br><br>                                                  一杯敬明天 一杯敬过往<br><br>                                                  支撑我的身体 厚重了肩膀<br><br>                                              虽然从不相信所谓山高水长<br><br>                                                  人生苦短何必念念不忘<br><br>                                                  一杯敬自由 一杯敬死亡<br><br>                                              宽恕我的平凡 驱散了迷惘<br><br>                                                  好吧天亮之后总是潦草离场<br><br>                                                  清醒的人最荒唐<br><br>                                                  好吧天亮之后总是潦草离<br><br>                                                  清醒的人最荒唐</div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot; style=&quot;font-size:18px&quot;&gt;&lt;br&gt;&lt;h3&gt;最近在听一首李晓东改编毛不易的歌曲 &lt;/h3&gt;&lt;br&gt;&lt;br&gt;李晓东&lt;br&gt;&lt;br&gt;                                               
       
     
     </summary>
